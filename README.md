@@ -13,13 +13,13 @@ Proyek ini bertujuan untuk menganalisis data penjualan produk harian dan mempred
 5. Google Colab
 
 # Dataset
-Tanggal: Tanggal transaksi
-Produk: Nama produk
-Jumlah Terjual: Kuantitas produk yang terjual
-Stok: Sisa stok setelah transaksi
-Harga Satuan: Harga per unit produk
-Total Penjualan: Hasil perkalian jumlah terjual dengan harga satuan
-Keuntungan: Selisih antara total penjualan dengan biaya modal (asumsi modal Rp10.000 per produk)
+1. Tanggal: Tanggal transaksi
+2. Produk: Nama produk
+3. Jumlah Terjual: Kuantitas produk yang terjual
+4. Stok: Sisa stok setelah transaksi
+5. Harga Satuan: Harga per unit produk
+6. Total Penjualan: Hasil perkalian jumlah terjual dengan harga satuan
+7. Keuntungan: Selisih antara total penjualan dengan biaya modal (asumsi modal Rp10.000 per produk)
 
 # Langkah-Langkah Implementasi
 1. Membuat dan Menyimpan Data, Dataset dibuat dalam bentuk dictionary dan disimpan sebagai file CSV.
