@@ -42,5 +42,4 @@ Keuntungan: Selisih antara total penjualan dengan biaya modal (asumsi modal Rp10
    Jalankan seluruh sel kode secara berurutan.
    Perhatikan output prediksi restock dan visualisasi data.
 3. Analisis hasil prediksi dan visualisasi data untuk pengambilan keputusan restock produk.
-4. 
 
